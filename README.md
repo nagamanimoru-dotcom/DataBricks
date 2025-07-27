@@ -1,2 +1,2 @@
 # databricks-tutorials
-This repo holds the content from my databricks free edition youtube playlist
+This repo holds the content from my databricks free edition youtube playlist.
