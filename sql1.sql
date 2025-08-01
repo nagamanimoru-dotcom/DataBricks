@@ -1,0 +1,1 @@
+select * from workspace.titanic_dataset.titanic where Pclass = 1 limit 100
